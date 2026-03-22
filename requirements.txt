@@ -1,1 +1,5 @@
-
+pip install numpy
+pip install scikit-learn
+pip install matplotlib
+pip install ultralytics
+pip install uuid
